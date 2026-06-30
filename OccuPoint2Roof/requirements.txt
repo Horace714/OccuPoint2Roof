@@ -1,0 +1,7 @@
+﻿torch==2.4.1
+numpy
+scipy==1.10.1
+tqdm
+PyYAML==6.0.3
+easydict==1.13
+ninja==1.13.0
